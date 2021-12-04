@@ -1,0 +1,7 @@
+.btn-style{
+    text-decoration: none;
+    background: linear-gradient(rgb(194, 140, 140),rgb(159, 159, 209),rgb(118, 184, 118));
+    padding: 5px 10px;
+    border-radius: 40px;
+    color: rgb(245, 215, 215);
+}

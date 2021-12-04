@@ -1,0 +1,10 @@
+.bg-1{
+    background-color: rgb(163, 128, 128);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.bg-1:hover{
+    color: red;
+    background-color: steelblue;
+}
